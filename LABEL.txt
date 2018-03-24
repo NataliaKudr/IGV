@@ -1,0 +1,13 @@
+Example labels for sequences
+
+>(+) P T Pan_tro 3.0:NW_016014700.1:3181-3519  Pan troglodytes GENE NAMES 
+
+Assembly
+gene iD NCBI and ensemble
+reverse/forward
+Partial
+Transcript 
+
+
+
+
